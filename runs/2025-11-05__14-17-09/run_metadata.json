@@ -1,0 +1,30 @@
+{
+    "run_id": "2025-11-05__14-17-09",
+    "uuid": "4a68b8ef-88b3-4fc1-80c6-3aafe468c6c2",
+    "dataset_path": "/workspaces/afterquery-bash-assessment/terminal-bench/tasks",
+    "dataset_name": null,
+    "dataset_version": null,
+    "output_path": "/workspaces/afterquery-bash-assessment/terminal-bench/runs",
+    "agent_name": "oracle",
+    "no_rebuild": false,
+    "cleanup": true,
+    "log_level": 20,
+    "task_ids": [
+        "file-permission-check"
+    ],
+    "exclude_task_ids": null,
+    "n_tasks": null,
+    "n_concurrent_trials": 4,
+    "n_attempts": 1,
+    "dataset_size": 1,
+    "accuracy": 0.0,
+    "model_name": "Oracle",
+    "start_time": "2025-11-05T14:17:09.898867+00:00",
+    "end_time": "2025-11-05T14:17:41.773615+00:00",
+    "commit_hash": "7623dbff48fa27f5d99d4f5d02179baf35ec503c",
+    "username": "Adharsh.U",
+    "s3_bucket": null,
+    "agent_kwargs": null,
+    "pass_at_k": {},
+    "resumed_at": null
+}

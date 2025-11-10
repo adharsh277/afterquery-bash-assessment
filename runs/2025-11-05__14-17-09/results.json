@@ -1,0 +1,31 @@
+{
+    "id": "73e8ea0c-1094-4277-a311-9f93f3eab99f",
+    "results": [
+        {
+            "id": "05c5289d-5420-4dcb-af2a-c50e7fdb70af",
+            "trial_name": "file-permission-check.1-of-1.2025-11-05__14-17-09",
+            "task_id": "file-permission-check",
+            "instruction": "Write a Bash script named `check_permissions.sh` that lists all files in the current directory \nwhich have execute (x) permission for the file owner. \nThe output should include only filenames (not paths), one per line, sorted alphabetically.\nDo not include directories in the output.",
+            "is_resolved": null,
+            "failure_mode": "unknown_agent_error",
+            "parser_results": null,
+            "recording_path": null,
+            "total_input_tokens": null,
+            "total_output_tokens": null,
+            "trial_started_at": null,
+            "trial_ended_at": null,
+            "agent_started_at": null,
+            "agent_ended_at": null,
+            "test_started_at": null,
+            "test_ended_at": null
+        }
+    ],
+    "pass_at_k": {},
+    "n_resolved": 0,
+    "n_unresolved": 1,
+    "resolved_ids": [],
+    "unresolved_ids": [
+        "file-permission-check"
+    ],
+    "accuracy": 0.0
+}
